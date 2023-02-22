@@ -31,6 +31,7 @@ Please read `AuE8240_Final_Project_Report_Mayuresh_Bhosale.pdf` for more details
 
 
 **Video of the Autonomous Navigation**
+https://youtu.be/_nqouZzIk54
 
-https://youtube.com/shorts/AurkAglt75M?feature=share
-https://youtube.com/shorts/AurkAglt75M?feature=share
+**Video of the Autonomous Navigation First Point Of View**
+https://youtu.be/iufVzGBmwCA
